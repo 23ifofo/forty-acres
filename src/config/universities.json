@@ -1,0 +1,340 @@
+{
+  "universities": {
+    "grambling": {
+      "id": "grambling-su",
+      "name": "Grambling State University",
+      "type": "public",
+      "email": "scholarships@gram.edu",
+      "phone": "(318) 274-2000",
+      "location": "Grambling, Louisiana",
+      "essayPrompts": [
+        "Why do you want to attend Grambling State University?",
+        "Describe your leadership experience and community impact."
+      ]
+    },
+    "lsu-br": {
+      "id": "lsu-baton-rouge",
+      "name": "Louisiana State University (Baton Rouge)",
+      "type": "public",
+      "email": "scholarships@lsu.edu",
+      "phone": "(225) 578-1000",
+      "location": "Baton Rouge, Louisiana",
+      "essayPrompts": [
+        "What attracts you to LSU Baton Rouge?",
+        "Share a moment that shaped your values."
+      ]
+    },
+    "lsu-alexandria": {
+      "id": "lsu-alexandria",
+      "name": "Louisiana State University at Alexandria",
+      "type": "public",
+      "email": "admissions@lsua.edu",
+      "phone": "(318) 445-3672",
+      "location": "Alexandria, Louisiana",
+      "essayPrompts": [
+        "Why LSU Alexandria?",
+        "Describe your leadership journey."
+      ]
+    },
+    "lsu-eunice": {
+      "id": "lsu-eunice",
+      "name": "Louisiana State University at Eunice",
+      "type": "public",
+      "email": "admissions@lsue.edu",
+      "phone": "(337) 550-1300",
+      "location": "Eunice, Louisiana",
+      "essayPrompts": [
+        "Why LSU Eunice?",
+        "Tell us about your community involvement."
+      ]
+    },
+    "lsu-shreveport": {
+      "id": "lsu-shreveport",
+      "name": "Louisiana State University in Shreveport",
+      "type": "public",
+      "email": "admissions@lsus.edu",
+      "phone": "(318) 797-5000",
+      "location": "Shreveport, Louisiana",
+      "essayPrompts": [
+        "What draws you to LSUS?",
+        "Describe a challenge you overcame."
+      ]
+    },
+    "lsu-hsc-no": {
+      "id": "lsu-hsc-new-orleans",
+      "name": "LSU Health Sciences Center New Orleans",
+      "type": "public",
+      "email": "admissions@lsuhsc.edu",
+      "phone": "(504) 568-6000",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why health sciences at LSU New Orleans?",
+        "Describe your commitment to healthcare."
+      ]
+    },
+    "lsu-hsc-shreveport": {
+      "id": "lsu-hsc-shreveport",
+      "name": "LSU Health Sciences Center Shreveport",
+      "type": "public",
+      "email": "admissions@lsuhscshreveport.edu",
+      "phone": "(318) 675-5000",
+      "location": "Shreveport, Louisiana",
+      "essayPrompts": [
+        "Why LSU Health Sciences Shreveport?",
+        "Share your healthcare aspirations."
+      ]
+    },
+    "louisiana-tech": {
+      "id": "louisiana-tech",
+      "name": "Louisiana Tech University",
+      "type": "public",
+      "email": "scholarships@latech.edu",
+      "phone": "(318) 257-0211",
+      "location": "Ruston, Louisiana",
+      "essayPrompts": [
+        "Why Louisiana Tech?",
+        "Describe your engineering or technical interests."
+      ]
+    },
+    "mcneese": {
+      "id": "mcneese-state",
+      "name": "McNeese State University",
+      "type": "public",
+      "email": "admissions@mcneese.edu",
+      "phone": "(337) 475-5000",
+      "location": "Lake Charles, Louisiana",
+      "essayPrompts": [
+        "Why McNeese?",
+        "Tell us about your academic goals."
+      ]
+    },
+    "nicholls": {
+      "id": "nicholls-state",
+      "name": "Nicholls State University",
+      "type": "public",
+      "email": "admissions@nicholls.edu",
+      "phone": "(985) 448-4000",
+      "location": "Thibodaux, Louisiana",
+      "essayPrompts": [
+        "Why Nicholls State?",
+        "Describe your commitment to education."
+      ]
+    },
+    "northwestern": {
+      "id": "northwestern-state",
+      "name": "Northwestern State University",
+      "type": "public",
+      "email": "admissions@nsula.edu",
+      "phone": "(318) 357-6000",
+      "location": "Natchitoches, Louisiana",
+      "essayPrompts": [
+        "Why Northwestern State?",
+        "Share your academic journey."
+      ]
+    },
+    "southeastern": {
+      "id": "southeastern-louisiana",
+      "name": "Southeastern Louisiana University",
+      "type": "public",
+      "email": "admissions@selu.edu",
+      "phone": "(985) 549-2000",
+      "location": "Hammond, Louisiana",
+      "essayPrompts": [
+        "Why Southeastern Louisiana?",
+        "Tell us about your leadership experience."
+      ]
+    },
+    "suu-br": {
+      "id": "southern-u-baton-rouge",
+      "name": "Southern University and A&M College (Baton Rouge)",
+      "type": "public",
+      "email": "admissions@subr.edu",
+      "phone": "(225) 771-4500",
+      "location": "Baton Rouge, Louisiana",
+      "essayPrompts": [
+        "Why Southern University Baton Rouge?",
+        "Describe your commitment to your community."
+      ]
+    },
+    "suu-no": {
+      "id": "southern-u-new-orleans",
+      "name": "Southern University at New Orleans",
+      "type": "public",
+      "email": "admissions@suno.edu",
+      "phone": "(504) 286-5000",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why SUNO?",
+        "Tell us about your goals."
+      ]
+    },
+    "suu-shreveport": {
+      "id": "southern-u-shreveport",
+      "name": "Southern University at Shreveport",
+      "type": "public",
+      "email": "admissions@sus.edu",
+      "phone": "(318) 676-3000",
+      "location": "Shreveport, Louisiana",
+      "essayPrompts": [
+        "Why SUS?",
+        "Describe your academic interests."
+      ]
+    },
+    "ul-lafayette": {
+      "id": "ul-lafayette",
+      "name": "University of Louisiana at Lafayette",
+      "type": "public",
+      "email": "admissions@louisiana.edu",
+      "phone": "(337) 482-1000",
+      "location": "Lafayette, Louisiana",
+      "essayPrompts": [
+        "Why UL Lafayette?",
+        "Share your future aspirations."
+      ]
+    },
+    "ul-monroe": {
+      "id": "ul-monroe",
+      "name": "University of Louisiana at Monroe",
+      "type": "public",
+      "email": "admissions@ulm.edu",
+      "phone": "(318) 342-1000",
+      "location": "Monroe, Louisiana",
+      "essayPrompts": [
+        "Why ULM?",
+        "Tell us about your strengths."
+      ]
+    },
+    "uno": {
+      "id": "uno-new-orleans",
+      "name": "University of New Orleans",
+      "type": "public",
+      "email": "admissions@uno.edu",
+      "phone": "(504) 280-6000",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why UNO?",
+        "Describe your academic journey."
+      ]
+    },
+    "centenary": {
+      "id": "centenary-college",
+      "name": "Centenary College of Louisiana",
+      "type": "private",
+      "email": "admissions@centenary.edu",
+      "phone": "(318) 869-5131",
+      "location": "Shreveport, Louisiana",
+      "essayPrompts": [
+        "Why Centenary?",
+        "Tell us about your values."
+      ]
+    },
+    "dillard": {
+      "id": "dillard-university",
+      "name": "Dillard University",
+      "type": "private",
+      "email": "admissions@dillard.edu",
+      "phone": "(504) 283-8822",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why Dillard?",
+        "Describe your commitment to service."
+      ]
+    },
+    "fmolu": {
+      "id": "fmolu",
+      "name": "Franciscan Missionaries of Our Lady University",
+      "type": "private",
+      "email": "admissions@fmolu.edu",
+      "phone": "(225) 765-0000",
+      "location": "Baton Rouge, Louisiana",
+      "essayPrompts": [
+        "Why FMOLU?",
+        "Tell us about your values."
+      ]
+    },
+    "lcu": {
+      "id": "louisiana-christian-u",
+      "name": "Louisiana Christian University",
+      "type": "private",
+      "email": "admissions@lcu.edu",
+      "phone": "(318) 487-7000",
+      "location": "Pineville, Louisiana",
+      "essayPrompts": [
+        "Why Louisiana Christian University?",
+        "Share your faith journey."
+      ]
+    },
+    "loyola": {
+      "id": "loyola-nola",
+      "name": "Loyola University New Orleans",
+      "type": "private",
+      "email": "scholarships@loyno.edu",
+      "phone": "(504) 865-3240",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why Loyola University New Orleans?",
+        "Describe your impact on your community."
+      ]
+    },
+    "nobts": {
+      "id": "new-orleans-baptist-seminary",
+      "name": "New Orleans Baptist Theological Seminary",
+      "type": "private",
+      "email": "admissions@nobts.edu",
+      "phone": "(504) 282-4455",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why NOBTS?",
+        "Tell us about your calling."
+      ]
+    },
+    "st-joseph": {
+      "id": "st-joseph-seminary",
+      "name": "St. Joseph Seminary College",
+      "type": "private",
+      "email": "admissions@sjasc.edu",
+      "phone": "(985) 867-2273",
+      "location": "St. Benedict, Louisiana",
+      "essayPrompts": [
+        "Why St. Joseph Seminary?",
+        "Share your spiritual journey."
+      ]
+    },
+    "tulane": {
+      "id": "tulane-nola",
+      "name": "Tulane University",
+      "type": "private",
+      "email": "scholarships@tulane.edu",
+      "phone": "(504) 862-8000",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why Tulane University?",
+        "Describe your leadership experience."
+      ]
+    },
+    "uhc": {
+      "id": "university-holy-cross",
+      "name": "University of Holy Cross",
+      "type": "private",
+      "email": "admissions@uhcno.edu",
+      "phone": "(504) 398-2175",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why Holy Cross?",
+        "Tell us about your values."
+      ]
+    },
+    "xavier": {
+      "id": "xavier-nola",
+      "name": "Xavier University of Louisiana",
+      "type": "private",
+      "email": "scholarships@xula.edu",
+      "phone": "(504) 520-7300",
+      "location": "New Orleans, Louisiana",
+      "essayPrompts": [
+        "Why Xavier University?",
+        "Describe your commitment to service."
+      ]
+    }
+  }
+}
