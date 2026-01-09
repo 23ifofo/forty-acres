@@ -405,16 +405,16 @@ const ApplicationForm = () => {
           {/* Info banner displayed only on the first page (Personal Information) */}
           {currentSection === 0 && (
             <div className="mb-6 md:mb-8 space-y-4">
-              {/* Cal Grant & Safety Notice */}
+              {/* Safety Notice */}
               <div className="bg-accent/10 border border-accent rounded-lg p-4 md:p-6">
-                <p className="text-sm md:text-base font-semibold text-foreground mb-2">✓ Cal Grant Scholarship — Free Application (No Fees)</p>
+                <p className="text-sm md:text-base font-semibold text-foreground mb-2">✓ Forty Acres Scholars Program — Free Application (No Fees)</p>
                 <p className="text-xs md:text-sm text-muted-foreground mb-3">
-                  This is a legitimate Cal Grant scholarship application. Cal Grant awards scholarships to eligible students based on the number of qualified applicants and available funding. This application is <strong>completely free</strong> — Cal Grant never charges application fees.
+                  This is a legitimate Forty Acres Scholars Program application. The program awards scholarships to eligible students based on the number of qualified applicants and available funding. This application is <strong>completely free</strong> — the program never charges application fees.
                 </p>
                 <div className="bg-error/10 border border-error rounded p-3 mb-3">
                   <p className="text-xs md:text-sm text-error font-semibold mb-1">⚠️ WARNING: Scholarship Scams</p>
                   <p className="text-xs md:text-sm text-muted-foreground">
-                    If anyone asks you for money to apply for a scholarship, it is a scam. Report suspicious activity to the appropriate authorities or contact support at <strong>support@calgrant.ca.gov</strong>.
+                    If anyone asks you for money to apply for a scholarship, it is a scam. Report suspicious activity to the appropriate authorities or contact support at <strong>support@fortyacres.org</strong>.
                   </p>
                 </div>
               </div>

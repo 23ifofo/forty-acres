@@ -1,3 +1,3 @@
-import CalGrantInfo from '../calgrant-info';
+import FortyAcresInfo from '../fortyacres-info';
 
-export default CalGrantInfo;
+export default FortyAcresInfo;

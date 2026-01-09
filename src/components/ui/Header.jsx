@@ -19,9 +19,9 @@ const Header = () => {
   const isActive = (path) => location?.pathname === path;
 
   const pathname = location?.pathname || '/';
-  const isLanding = pathname === '/' || pathname.startsWith('/calgrant');
+  const isLanding = pathname === '/' || pathname.startsWith('/forty-acres');
   const portalName = isLanding
-    ? 'Cal Grant Scholarship Portal'
+    ? 'Forty Acres Scholars Portal'
     : (selectedUniversity ? `${selectedUniversity.name} Scholarship Portal` : 'Scholarship Portal');
 
   return (
@@ -34,9 +34,9 @@ const Header = () => {
                 <Icon name="Award" size={28} color="white" />
               </div>
               <div className="hidden sm:block">
-                <p className="text-xs font-medium text-white/80 tracking-widest">CALIFORNIA</p>
+                <p className="text-xs font-medium text-white/80 tracking-widest">FORTY ACRES</p>
                 <span className="text-lg font-heading font-bold text-white">
-                  Cal Grant
+                  Forty Acres Scholars
                 </span>
               </div>
             </Link>
